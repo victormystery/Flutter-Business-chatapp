@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299152306401",
+    "project_id": "business-chatapp",
+    "storage_bucket": "business-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299152306401:android:cbaf2bf74302edd98a87a0",
+        "android_client_info": {
+          "package_name": "com.example.business_chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299152306401-gbedhno5gvtijodsmfu7im8v8fns7f57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5SwBVjD7qzrgnMvAiPcrFziQYphDSxeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299152306401-gbedhno5gvtijodsmfu7im8v8fns7f57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
